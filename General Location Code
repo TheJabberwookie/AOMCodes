@@ -1,0 +1,31 @@
+[code][center][columns]
+[center][font=Agency FB][size=7][color=#32a3ac][b]LOCATION NAME[/b][/color][/size][/font][/center]
+
+
+[left][font=Agency FB][size=4][color=#ff7e79][b]Location Native to: [url=WORLD URL IN DATABASE]World Number - World Name[/url][/b][/color][/size][/font][/left]
+[justify]General information about your location goes here. About a paragraph or so. What does it look like? What are some of its defining characteristics? What are all the general things that someone visiting for the first time would need to know?[/justify] 
+
+[nextcol]
+[img]IMAGE LINK HERE. NO WIDER THAN 400px. CAN BE AS LONG AS YOU WANT.[/img]
+
+
+[font=Agency FB][size=5][color=#32a3ac]Information Title[/color][/size][/font]
+[collapse name="(Select to Learn More)"]
+[justify][size=2][b][i]This is a nice little area to add additional information about your location. Is it a shop? You can add a menu, or room descriptions if it's an inn. Are there specific dangers to this location? Unique phenomena? Jobs to be had? Something you need to tell players OOCly? Maybe some NPCs they might frequently encounter? Use these areas to do so. Remove what you don't need or add as you see fit. You can copy and past this section to add more of these.[/i][/b][/size][/justify]
+
+[justify][size=4][font=Agency FB][b][color=#ff7e79]Blurb Title[/color][/b][/font][/size]
+[color=#32a3ac]Informational blurb about whatever is in the title.[/color]
+
+[size=4][font=Agency FB][b][color=#ff7e79]Blurb Title[/color][/b][/font][/size]
+[color=#32a3ac]Informational blurb about whatever is in the title.[/color]
+
+[size=4][font=Agency FB][b][color=#ff7e79]Blurb Title[/color][/b][/font][/size]
+[color=#32a3ac]Informational blurb about whatever is in the title.[/color]
+
+[size=4][font=Agency FB][b][color=#ff7e79]Blurb Title[/color][/b][/font][/size]
+[color=#32a3ac]Informational blurb about whatever is in the title.[/color]
+
+[/justify]
+[/collapse]
+
+[/columns][/center][/code]
